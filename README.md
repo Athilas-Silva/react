@@ -8,4 +8,8 @@ O React é a biblioteca mais popular do JavaScript e é usada para construir uma
 
 Para mais informações clique [aqui](https://www.hostinger.com.br/tutoriais/o-que-e-react-javascript)
 
+## Print da Página
+
+![home](https://user-images.githubusercontent.com/71888055/111018209-4e7bc780-8396-11eb-8f4d-f742a813a8ff.PNG)
+
 <p align="center"><strong> 🚧🚧 Em Construção 🚧🚧</strong>
