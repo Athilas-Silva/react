@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(65, 65, 250);
+    color: white;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#logo{
+    width: 10%;
+    height: 50%;
+    margin: 5px;
+}
+
+img{
+    width: 300px;
+}

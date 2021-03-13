@@ -1,0 +1,36 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container{
+    margin: 10px;
+}
+
+button{
+    background: none;
+    border: 0;
+    position: relative;
+    transition: all 500ms ease-in-out ;
+}
+
+button:after{
+    content: "";
+    transition: inherit;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: rgb(65, 65, 250);
+    position: absolute;
+    top: -50%;
+    left: -10px;
+    opacity: 0.3;
+    z-index: -1;
+}
+
+button:hover:after{
+    width: calc(100% + 20px);
+    border-radius: 20px;
+    opacity: 0.6;
+}
