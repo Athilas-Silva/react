@@ -11,5 +11,3 @@ Para mais informações clique [aqui](https://www.hostinger.com.br/tutoriais/o-q
 ## Print da Página
 
 ![home](https://user-images.githubusercontent.com/71888055/111018209-4e7bc780-8396-11eb-8f4d-f742a813a8ff.PNG)
-
-<p align="center"><strong> 🚧🚧 Em Construção 🚧🚧</strong>
